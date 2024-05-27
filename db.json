@@ -1,0 +1,64 @@
+{
+  "produtos": [
+    {
+      "nome": "CANECA MINI MARVEL LOGO CERÂMICA 100ML",
+      "preco": "23,90",
+      "imagem": "https://images.tcdn.com.br/img/img_prod/723087/caneca_mini_marvel_logo_ceramica_100ml_8852_1_0f907267be57777da0f08f0bba220054.png",
+      "id": "uRuvwSj"
+    },
+    {
+      "nome": "FUNKO POP SUPER HOMEM LIGA DA JUSTIÇA-1123",
+      "preco": "109,90",
+      "imagem": "https://images.tcdn.com.br/img/img_prod/723087/funko_pop_super_homem_liga_da_justica_1123_8011_1_89d3822bf76290620ceea27291702e62.png",
+      "id": "zOrucW8"
+    },
+    {
+      "nome": "FUNKO POP MATER REMIX ALIEN DISNEY-764",
+      "preco": "109,90",
+      "imagem": "https://images.tcdn.com.br/img/img_prod/723087/funko_pop_mater_remix_alien_disney_764_7537_1_2548260ecea3c2ff456b87be0bd23c77.png",
+      "id": "FIUdMSn"
+    },
+    {
+      "nome": "FUNKO POP PATOLINO 1062 SPACE JAM",
+      "preco": "115,90",
+      "imagem": "https://images.tcdn.com.br/img/img_prod/723087/funko_pop_patolino_1062_space_jam_7737_1_bcc1616cf260a57ef4e97c5ce7cb1013.jpg",
+      "id": "_OvOSeZ"
+    },
+    {
+      "nome": "ALMOFADA FRIENDS - CENTRAL PARK",
+      "preco": "39,90",
+      "imagem": "https://images.tcdn.com.br/img/img_prod/723087/almofada_friends_central_park_7655_1_1e6ddf9fc57d778546f076622eb248c2.jpg",
+      "id": "iJRkUCL"
+    },
+    {
+      "nome": "LUMINARIA CRIATIVA CORUJA HEDWIG HARRY POTTER",
+      "preco": "159,90",
+      "imagem": "https://images.tcdn.com.br/img/img_prod/723087/luminaria_criativa_coruja_hedwig_harry_potter_8876_1_a5f680519cd689b6d721218ff338468d.png",
+      "id": "SF9Ewb8"
+    },
+    {
+      "nome": "PORTA CHAVES WELCOME!",
+      "preco": "24,90",
+      "imagem": "https://images.tcdn.com.br/img/img_prod/723087/porta_chaves_welcome_2071_2_20201214005637.jpg",
+      "id": "uc2z3ZP"
+    },
+    {
+      "nome": "BANDEIRINHAS DE NATAL POKE",
+      "preco": "10,90",
+      "imagem": "https://images.tcdn.com.br/img/img_prod/723087/bandeirinhas_de_natal_poke_7823_1_dc0866a86b544ddb2b6c3c583a100a47.jpg",
+      "id": "SDBJzFe"
+    },
+    {
+      "nome": "FUNKO POP CORINGA IMPERIAL 375",
+      "preco": "115,90",
+      "imagem": "https://images.tcdn.com.br/img/img_prod/723087/funko_pop_imperial_joker_375_7515_1_eed0e945b688324b54fa178ad1568ecd.jpg",
+      "id": "MSUFjob"
+    },
+    {
+      "nome": "ALMOFADA PASTEL DE QUEIJO",
+      "preco": "29,90",
+      "imagem": "https://images.tcdn.com.br/img/img_prod/723087/almofada_pastel_de_queijo_3987_2_20201214005625.jpg",
+      "id": "k_jgIlN"
+    }
+  ]
+}

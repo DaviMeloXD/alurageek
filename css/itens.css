@@ -1,0 +1,137 @@
+.corpo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 90px;
+}
+
+.produtos {
+    width: 58vw;
+    box-shadow: -9px 0px 5px 0px rgba(0, 0, 0, 0.5);
+}
+
+.produtos__fundo {
+    gap: 10px;
+    display: flex;
+    flex-direction: row;
+    row-gap: 10px;
+    flex-wrap: wrap;
+    max-height: 300px; 
+    overflow-y: auto; 
+    justify-content: center;
+}
+
+
+.itens {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #5d04d9;
+    width: 196px;
+    height: 258px;
+    color: white;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+.trash {
+    display: flex;
+    flex-direction: row;
+    color: white;
+    justify-content: space-between;
+    width: 90%;
+
+}
+
+.input {
+    width: 360px;
+    height: 38px;
+    border-radius: 40px;
+    border: 1px solid #0331BC;
+    margin-bottom: 20px;
+}
+
+
+.formulario {
+    row-gap: 10px;
+    width: min-content;
+    font-weight: bold; 
+
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.button__a {
+    width: 50px;
+    background-color: #0331BC; 
+    color: white;
+    border: none;
+
+
+}
+
+.button__b {
+    color: #0331BC;
+    border: 2px solid #0331BC;
+    background-color: white;
+}
+.buttons button {
+    width: 150px; 
+    height: 50px;
+    padding: 10px 20px; 
+    font-size: 18px; 
+    border-radius: 10px; 
+    cursor: pointer; 
+    transition: 0.3s; 
+}
+
+.buttons button:hover {
+    background-color: #45a049; 
+}
+
+.titulo__meus {
+    text-align: center;
+    font-weight: bold; 
+
+}
+
+.img__img {
+    max-width: 176px !important;
+}
+
+
+@media (max-width: 600px) {
+    .corpo {
+        flex-direction: column-reverse;
+        align-items: center;
+        margin-top: 10px;
+    }
+
+    .itens{
+        width: 150px;
+        min-height: 210px;
+    }
+
+    .img__img {
+        max-width: 120px !important;
+    }
+
+    .produtos {
+        width: 100vw;
+    }
+
+    .produtos {
+        margin-top: 20px;
+        box-shadow: 0px 0px 5px 0px white;
+
+    }
+
+    .titulo__meus {
+        margin-bottom: 10px;
+    }
+}
